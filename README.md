@@ -17,3 +17,6 @@ DESCRIPTION : The task involved redesigning the website (my choice - Craigslist)
 OUTPUT: 
 
 ![Image](https://github.com/user-attachments/assets/e4d3325e-8121-432e-a8ca-38207d6a5589)
+
+
+![Image](https://github.com/user-attachments/assets/80e13d98-3ee4-40cc-b79f-79e2bcea8b99)
